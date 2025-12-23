@@ -1,0 +1,8 @@
+{
+  "name": "Social Connect Platform",
+  "description": "A multi-role platform for customers, influencers, and sellers featuring video content, interactive comments, and a spinning wheel reward system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
